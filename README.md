@@ -30,6 +30,6 @@ This repository is licensed under the MIT License. See `LICENSE` for details.
 
 The waveform below shows the output of the RISC-V single-cycle processor simulation:
 
-![Waveform](Waveforms/Itype1.png)
-![Waveform](Waveforms/Itype2.png)
+![Waveform](Waveforms/Itype_1.png)
+![Waveform](Waveforms/Itype_2.png)
 
