@@ -45,3 +45,8 @@ The waveform below shows the output of the RISC-V single-cycle processor simulat
 ### and_Rtype_2
 ![Waveform](Waveforms/and_Rtype2.png)
 
+### or_Rtype_1
+![Waveform](Waveforms/or_Rtype1.png)
+### or_Rtype_2
+![Waveform](Waveforms/or_Rtype2.png)
+
