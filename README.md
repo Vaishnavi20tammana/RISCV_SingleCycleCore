@@ -25,3 +25,9 @@ This project is based on:
 ## 📄 License
 
 This repository is licensed under the MIT License. See `LICENSE` for details.
+
+## 📊 Simulation Results
+
+The waveform below shows the output of the RISC-V single-cycle processor simulation:
+
+![Waveform](Waveforms/and_Rtype1.png)
