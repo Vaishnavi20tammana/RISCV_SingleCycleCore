@@ -1,0 +1,16 @@
+# Verilog simulation and build files
+*.vcd
+*.log
+*.out
+*.bak
+*.o
+*.hex
+*.elf
+*.bin
+*.wav
+*.vvp
+
+# Backup and temporary files
+*~
+*.swp
+*.tmp
